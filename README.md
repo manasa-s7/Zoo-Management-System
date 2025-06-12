@@ -53,9 +53,6 @@ The MySQL database includes tables for:
 
 Developed as part of an academic project to demonstrate CRUD operations, relational databases, and backend scripting in a real-world zoo scenario.
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots of your dashboard, login page, etc., here._
 
 ## 📎 License
 
